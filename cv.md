@@ -24,6 +24,4 @@ I've loved programming since I was in high school. It took me a long time to fin
 * A2
 
 ## Code examples:
-in the works
-
-
+in https://zilarr.github.io/rsschool-cvv/
